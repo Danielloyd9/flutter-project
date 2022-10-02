@@ -1,1 +1,3 @@
 This an exercise for CC 206
+
+"this is only a practice for changes :)"
